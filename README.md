@@ -2,7 +2,7 @@
 
 * What is this website about?
 
-* Xio’s Fresh Tomatoes* is my first website project to showcase the skills learned during my Web Development course. The website gives recommendations on movies, tv shows and books. The name for the site is a nod to the famous Rotten Tomatoes. This was a great project to create as it allowed me use my styling skills and share my personal recommendations on things I have watched or read this year.
+* Xio’s Fresh Tomatoes * is my first website project to showcase the skills learned during my Web Development course. The website gives recommendations on movies, tv shows and books. The name for the site is a nod to the famous Rotten Tomatoes. This was a great project to create as it allowed me use my styling skills and share my personal recommendations on things I have watched or read this year.
 
 * Interactive features
 
